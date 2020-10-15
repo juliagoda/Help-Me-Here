@@ -35,3 +35,19 @@ A notification will be created somewhere to remind you of the end. At the end of
 > Will deleted entries go to another folder?
 
 Outdated advertisements will not be archived due to too many of them after some time. In the future, however, history could be documented with the help of statistical tools, which would, for example, include the average time of help and continuous, application themes, IT department and many others.
+
+<br/>
+
+> I have problems with finding pages asking for help. I don't know where to start.
+
+Such pages often contain keywords such as:
+- "Development"
+- "Get involved"
+- "Help of community"
+- "Beta version"
+- "Join"
+- "Support"
+- "Join the ride"
+- "Contribute"
+
+If you still have trouble finding it. Think of a website and look for any mention or reference on the home page.
