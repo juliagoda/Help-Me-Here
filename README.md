@@ -17,6 +17,13 @@ The website exists to contain information about all kinds of help in the IT worl
 
 ## Sections
 
-Not yet added, because there are no entries yet
+- [Software engineering](#software-engineering)
 
 
+## Software engineering
+
+
+| Link 	| Account creation required (to see content) 	| Company/Website 	| Type of technology 	| Name 	| Until 	| General tasks 	| People group 	|
+|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
+| [Link](https://www.heliohost.org) | No | Helio Networks | Web hosting services |  HelioHost | until end is announced | Donation | All |
+| [Link](https://www.libreoffice.org/community/developers/) | No | The Document Foundation | Desktop, Mobile, Portable, Web App | LibreOffice | always | code development, file a bug | Developers |
