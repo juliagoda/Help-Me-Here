@@ -16,6 +16,8 @@ where What - typo, Data in list, Section, Markdown file, section [section name] 
 
 <p>If there is a situation that the same company needs help at the same time for the same technology, then we add the notification number at the end. If someone has previously sent a pull request with the same name for the first time, you have to add the number 2 at the end, and so on. Why? Let's assume that someone asks for continuous help which does not contain a specific date, but wants to catalog users for the same application according to different tasks, placing another ad on a different subpage or even a completely different page. **If both requests relate to the same application and the same date and the same company, but there is a request for a different kind of help from a different place, then you need to add another number to the pull request title.**</p>  
 
+<br/>
+
 ### When you don't know, how should look like a table for the first time
 
-[graphics]
+![Table creation example](https://github.com/juliagoda/Help-Me-Here/blob/master/images/table-example.jpg)
