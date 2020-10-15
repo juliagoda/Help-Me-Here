@@ -19,6 +19,7 @@ The website exists to contain information about all kinds of help in the IT worl
 
 - [Software engineering](#software-engineering)
 
+<br/>
 
 ## Software engineering
 
