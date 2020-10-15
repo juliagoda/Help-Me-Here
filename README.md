@@ -28,3 +28,4 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link](https://www.heliohost.org) | No | Helio Networks | Web hosting services |  HelioHost | until end is announced | Donation | All |
 | [Link](https://www.libreoffice.org/community/developers/) | No | The Document Foundation | Desktop, Mobile, Portable, Web App | LibreOffice | always | code development, file a bug | Developers |
 | [Link](https://www.gimp.org/develop/) | No | The GIMP Development Team | Desktop App | GIMP | always | code development, docs/articles writing, translation | Developers, All |
+| [Link](https://vivaldi.com/blog/join-the-ride/) | No | Vivaldi Technologies | Browser | Vivaldi | always | translation, send feature request, testing and sending bugs | All |
