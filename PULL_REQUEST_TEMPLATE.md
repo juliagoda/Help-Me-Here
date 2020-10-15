@@ -18,6 +18,14 @@ where What - typo, Data in list, Section, Markdown file, section [section name] 
 
 <br/>
 
+### Good Examples
+
+<p>I sent my first changes with Pull Request to show how it should look like. You have to rewind to the first Pull Requests sent.</p>
+
+[Look here](https://github.com/juliagoda/Help-Me-Here/pulls?q=is%3Apr+is%3Aclosed)  
+
+<br/>
+
 ### When you don't know, how should look like a table for the first time
 
 ![Table creation example](https://github.com/juliagoda/Help-Me-Here/blob/master/images/table-example.jpg)
