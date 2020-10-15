@@ -30,3 +30,4 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link](https://www.gimp.org/develop/) | No | The GIMP Development Team | Desktop App | GIMP | always | code development, docs/articles writing, translation | Developers, All |
 | [Link](https://vivaldi.com/blog/join-the-ride/) | No | Vivaldi Technologies | Browser | Vivaldi | always | translation, send feature request, testing and sending bugs | All |
 | [Link](https://www.winehq.org/getinvolved) | No | WineHQ | Desktop, Mobile App | Wine | always | donation, development, errors reporting, help on forum | Developers, All |
+| [Link](https://www.videolan.org/contribute.html) | No | VideoLAN | Desktop, Mobile App | VLC Media Player | always | donation, development, writing docs, translation, creating design, help on forum | Developers, All |
