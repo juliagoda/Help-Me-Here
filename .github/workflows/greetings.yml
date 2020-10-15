@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Welcome! I''m glad that you want to take part in the content enhancement. If you are here for the first time, remember to read the rules. You can read about them in ISSUE_TEMPLATE.md. However, if you want to come up with an idea, read PROPOSAL_TEMPLATE.md.'
+        pr-message: 'Welcome! I''m glad that you want to take part in the content enhancement. If you are here for the first time, remember to read the rules. You can read about them in PULL_REQUEST_TEMPLATE.md.'
