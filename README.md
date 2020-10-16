@@ -18,6 +18,7 @@ The website exists to contain information about all kinds of help in the IT worl
 ## Sections
 
 - [Software engineering](#software-engineering)
+- [Programming languages](#programming-languages)
 
 <br/>
 
@@ -35,3 +36,12 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link](https://community.kde.org/Get_Involved/development) | No | KDE | Dekstop, Mobile App | KDE (Applications, Plasma, Frameworks) | always | donation, code development, bugs reporting, tests, writing docs | Developers, All |
 | [Link](https://www.gnome.org/get-involved/) | No | The GNOME Project | Desktop App | GNOME | always | code development, donation, writing docs, promotion, translation | Developers, All |
 | [Link](https://www.opera.com/pl/gx#faq) | No | Opera Software, Otello Corporation, Opera Software (AS) | Browser | Opera GX | always | tests | All |
+
+<br/>
+
+## Programming languages
+
+
+| Link 	| Account creation required (to see content) 	| Company/Website 	| Type of technology 	| Name 	| Until 	| General tasks 	| People group 	|
+|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
+| [Link](https://docs.python.org/3/bugs.html) | No | Python Software Foundation | general purpose language, multi-paradigm |  Python | always | docs writing, bugs reporting, submitting patches | Developers, All |
