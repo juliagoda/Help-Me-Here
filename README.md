@@ -45,3 +45,4 @@ The website exists to contain information about all kinds of help in the IT worl
 | Link 	| Account creation required (to see content) 	| Company/Website 	| Type of technology 	| Name 	| Until 	| General tasks 	| People group 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
 | [Link](https://docs.python.org/3/bugs.html) | No | Python Software Foundation | general purpose language, multi-paradigm |  Python | always | docs writing, bugs reporting, submitting patches | Developers, All |
+| [Link](https://isocpp.org/std/submit-issue) | No | ISO/IEC JTC1 | general purpose language, multi-paradigm | C++ | always | bugs reporting (of core language, of standard library) | Developers |
