@@ -33,3 +33,4 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link](https://www.winehq.org/getinvolved) | No | WineHQ | Desktop, Mobile App | Wine | always | donation, development, errors reporting, help on forum | Developers, All |
 | [Link](https://www.videolan.org/contribute.html) | No | VideoLAN | Desktop, Mobile App | VLC Media Player | always | donation, development, writing docs, translation, creating design, help on forum | Developers, All |
 | [Link](https://community.kde.org/Get_Involved/development) | No | KDE | Dekstop, Mobile App | KDE (Applications, Plasma, Frameworks) | always | donation, code development, bugs reporting, tests, writing docs | Developers, All |
+| [Link](https://www.gnome.org/get-involved/) | No | The GNOME Project | Desktop App | GNOME | always | code development, donation, writing docs, promotion, translation | Developers, All |
