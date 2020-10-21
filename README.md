@@ -39,6 +39,7 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link](https://www.blender.org/get-involved/) | No | Blender Foundation | Desktop, Mobile App | Blender | always | code development, scripts writing, writing docs, translation, design, tests, donation, sponsor | Developers, All |
 | [Link](https://www.audacityteam.org/community/) | No | The Audacity Team | Desktop App | Audacity | always | sending suggestions, bugs reporting, docs writing, translation, donation, code development | Users, Developers, Translators |
 | [Link1](https://github.com/google/earthenterprise/wiki/Development:-Git-Contributions) [Link2](https://github.com/google/earthenterprise/wiki/Development:-How-to-Contribute) | No | Google | Desktop App | Google Earth Enterprise | always | code development, bugs reporting, sending patches, tests | Users, Developers |
+| [Link](https://editorconfig.org#contributing) | No | EditorConfig | Library | EditorConfig | always | sending suggestions, bugs reporting, code development | Users, Developers |
 
 <br/>
 
