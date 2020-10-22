@@ -42,6 +42,7 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link](https://editorconfig.org#contributing) | No | EditorConfig | Tool | EditorConfig | always | sending suggestions, bugs reporting, code development | Users, Developers |
 | [Link1](https://maven.apache.org/guides/development/guide-helping.html) [Link2](http://maven.apache.org) | No | Apache Software Foundation | Tool | Maven | always | sending suggestions, bugs reporting, code development, tests, docs correction, help with mailing lists | Users, Developers, Testers, All |
 | [Link1](https://www.eclipse.org/contribute/) | No | Eclipse Foundation | Desktop App | Eclipse | always | sending suggestions, bugs reporting, code development, tests, donation, promotion | Users, Developers, Testers, All |
+| [Link1](https://www.mozilla.org/en-US/contribute/) | No | Mozilla | Various | Mozilla products | always | sending suggestions, bugs reporting, code development, tests, donation, promotion, translation | Users, Developers, Testers, Translators, All |
 
 <br/>
 
