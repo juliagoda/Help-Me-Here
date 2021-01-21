@@ -48,6 +48,7 @@ The website exists to contain information about all kinds of help in the IT worl
 | [Link1](https://protonmail.com/blog/how-to-become-protonmail-beta-tester/) | Yes | Proton Technologies AG | Mobile App, Web App | ProtonMail beta | always | sending suggestions, bugs reporting, tests, donation | All |
 | [Link1](https://support.google.com/youtube/answer/9156467?hl=en) | Yes | Google | Mobile App | YouTube | always | bugs reporting, tests | Testers with Google Account and Android |
 | [Link1](https://apps.ankiweb.net/#dev) | No | Anki | Mobile App, Desktop App | Anki | always | bugs reporting, tests, translation, donation | All |
+| [Link1](https://kdenlive.org/en/developers-welcome/) | No | KDE | Desktop App | Kdenlive | always | bugs reporting, tests, development | Mainly programmers |
 
 
 <br/>
